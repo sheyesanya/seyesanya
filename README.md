@@ -1,6 +1,6 @@
 # Hi, I'm Seye 👋
 
-Cloud & DevOps Engineer based in Lagos, Nigeria and I am open to working remotely.
+Cloud & DevOps Engineer based in Lagos, Nigeria, open to working remotely.
 
 I build and ship products end-to-end, from cloud infrastructure to production deployment. Currently focused on cloud operations, CI/CD pipelines, and infrastructure reliability.
 
